@@ -1,0 +1,7 @@
+C:\Users\305-10\Desktop\Гурина ПР-21\pr_ind_1_v3_Gurina\bin\Debug\pr_ind_1_v3_Gurina.exe.config
+C:\Users\305-10\Desktop\Гурина ПР-21\pr_ind_1_v3_Gurina\bin\Debug\pr_ind_1_v3_Gurina.exe
+C:\Users\305-10\Desktop\Гурина ПР-21\pr_ind_1_v3_Gurina\bin\Debug\pr_ind_1_v3_Gurina.pdb
+C:\Users\305-10\Desktop\Гурина ПР-21\pr_ind_1_v3_Gurina\obj\Debug\pr_ind_1_v3_Gurina.csproj.AssemblyReference.cache
+C:\Users\305-10\Desktop\Гурина ПР-21\pr_ind_1_v3_Gurina\obj\Debug\pr_ind_1_v3_Gurina.csproj.CoreCompileInputs.cache
+C:\Users\305-10\Desktop\Гурина ПР-21\pr_ind_1_v3_Gurina\obj\Debug\pr_ind_1_v3_Gurina.exe
+C:\Users\305-10\Desktop\Гурина ПР-21\pr_ind_1_v3_Gurina\obj\Debug\pr_ind_1_v3_Gurina.pdb
